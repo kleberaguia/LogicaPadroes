@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padrao_Stategy", "Padrao_Stategy\Padrao_Stategy.csproj", "{92869A00-754F-4B1C-A1B7-A9941C69A1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92869A00-754F-4B1C-A1B7-A9941C69A1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92869A00-754F-4B1C-A1B7-A9941C69A1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92869A00-754F-4B1C-A1B7-A9941C69A1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92869A00-754F-4B1C-A1B7-A9941C69A1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {685A591E-590F-4D6D-A034-32F9E0DD21FB}
+	EndGlobalSection
+EndGlobal

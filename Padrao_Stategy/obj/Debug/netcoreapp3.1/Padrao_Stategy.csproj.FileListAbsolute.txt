@@ -1,0 +1,13 @@
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\bin\Debug\netcoreapp3.1\Padrao_Stategy.exe
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\bin\Debug\netcoreapp3.1\Padrao_Stategy.deps.json
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\bin\Debug\netcoreapp3.1\Padrao_Stategy.runtimeconfig.json
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\bin\Debug\netcoreapp3.1\Padrao_Stategy.runtimeconfig.dev.json
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\bin\Debug\netcoreapp3.1\Padrao_Stategy.dll
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\bin\Debug\netcoreapp3.1\Padrao_Stategy.pdb
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\obj\Debug\netcoreapp3.1\Padrao_Stategy.csprojAssemblyReference.cache
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\obj\Debug\netcoreapp3.1\Padrao_Stategy.AssemblyInfoInputs.cache
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\obj\Debug\netcoreapp3.1\Padrao_Stategy.AssemblyInfo.cs
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\obj\Debug\netcoreapp3.1\Padrao_Stategy.csproj.CoreCompileInputs.cache
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\obj\Debug\netcoreapp3.1\Padrao_Stategy.dll
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\obj\Debug\netcoreapp3.1\Padrao_Stategy.pdb
+D:\projetos\EstudoPadroes\PadraoStrategy_III\Padrao_Stategy\Padrao_Stategy\obj\Debug\netcoreapp3.1\Padrao_Stategy.genruntimeconfig.cache
